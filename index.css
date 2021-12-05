@@ -93,4 +93,12 @@ div.content div.text a {
   background-image: -webkit-gradient(linear, left top, right top, from(#00F973), to(#00F9A6));
   background-image: linear-gradient(to right, #00F973, #00F9A6);
 }
+
+div.content img {
+  max-width: 300px;
+}
+
+svg {
+  position: absolute;
+}
 /*# sourceMappingURL=index.css.map */
